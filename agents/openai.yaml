@@ -1,4 +1,4 @@
 interface:
-  display_name: "Mac WeChat Dual Open"
-  short_description: "Create or repair macOS WeChat dual-open setup"
-  default_prompt: "Use $mac-wechat-dual-open to create, repair, and launch a second WeChat on macOS."
+  display_name: "macOS 微信双开"
+  short_description: "创建或修复 macOS 微信双开分身"
+  default_prompt: "使用 $mac-wechat-dual-open 帮我创建、修复并启动 macOS 微信双开。"
